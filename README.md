@@ -2,5 +2,5 @@
 swarmkit_cluster
 
 ```bash
-Docker Swarm Up
+docker-compose up -d
 ```
